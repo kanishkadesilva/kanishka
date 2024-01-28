@@ -14,13 +14,12 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WAOW YOU CHOOSE SUHAIL-MD 』*
+║ *『 𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄 𝙵𝙾𝚁 𝙲𝙷𝙾𝙾𝚂𝙸𝙽𝙶 𝚀𝚄𝙴𝙴𝙽 𝚃𝙷𝙰𝚁𝚄-𝙼𝙳 』*
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _youtube.com/SuhailTechInfo_
-║ *Owner:* _https://wa.me/923184474176_
+║ *Owner:* _https://wa.me/94722477361_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
